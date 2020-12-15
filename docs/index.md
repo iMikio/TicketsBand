@@ -1,11 +1,10 @@
-# Tickets Band
-## Tickets Bandについて
+# Tickets Bandについて
 Tickets Band(チケットバンド)は、グループ単位でイベントの予約状況を管理できるアプリです。
 
 プライバシーポリシーは下記です。
 
 * [プライバシーポリシー（日本語）](https://imikio.github.io/TicketsBand/PrivacyPolicy/Japanese)
-* [PrivacyPolicy(English)](./PrivacyPolicy/English)
+* [PrivacyPolicy(English)](https://imikio.github.io/TicketsBand/PrivacyPolicy/English)
 
 
 ## アプリのダウンロード先

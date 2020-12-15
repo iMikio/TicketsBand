@@ -5,7 +5,7 @@ Tickets Band(チケットバンド)は、グループ単位でイベントの予
 プライバシーポリシーは下記です。
 
 * [プライバシーポリシー（日本語）](https://imikio.github.io/TicketsBand/PrivacyPolicy/Japanese)
-* [PrivacyPolicy(English)](https://imikio.github.io/TicketsBand/PrivacyPolicy/English)
+* [PrivacyPolicy(English)](./PrivacyPolicy/English)
 
 
 ## アプリのダウンロード先

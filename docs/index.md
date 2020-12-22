@@ -8,7 +8,7 @@ Tickets Band(チケットバンド)は、グループ単位でイベントの予
 
 
 ## アプリのダウンロード先
-* ~~[iOSアプリ]()~~ 準備中
+* [iOSアプリ](https://apps.apple.com/app/tickets-band/id1544696016)
 * ~~[Androidアプリ]()~~ 準備中
 
 

@@ -1,5 +1,6 @@
 # Tickets Bandについて
 Tickets Band(チケットバンド)は、グループ単位でイベントの予約状況を管理できるアプリです。
+
 <img src="./images/ticketsband_home.jpeg" alt="" height="200"> <img src="./images/ticketsband_group.jpeg" alt="" height="200">
 
 プライバシーポリシーは下記です。
